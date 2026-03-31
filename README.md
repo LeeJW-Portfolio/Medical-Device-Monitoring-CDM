@@ -1,6 +1,7 @@
-# Research-project
-Research project during graduate school_Participating Researcher
-==============================================================
+# Research project during graduate school_Participating Researcher 
+## Research-project : Medical-Device-Monitoring-CDM
+
+---
 ## [국책과제] CDM 기반 의료기기 이상사례 능동적 모니터링 모델 개발 및 다기관 검증
 > **과제번호: 21173미래기245**
 > **※ 본 프로젝트는 국가 연구 과제 보안 지침에 따라 상세 코드 대신 분석 로직 및 데이터 정제 전략 요약본으로 대체합니다.**
